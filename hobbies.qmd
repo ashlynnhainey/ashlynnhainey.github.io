@@ -1,0 +1,16 @@
+---
+title: "Hobbies"
+---
+
+## My Hobbies
+
+### Photography
+I love capturing beautiful moments especially in the mountains.
+
+### Hiking
+Hiking provides an active outside activity that I've really enjoyed. I have climbed several 14'ers.
+
+### Running
+I love running. The challenge and relaxing nature of it is amazing. I am currently training for a marathon.
+
+![Photograph of Puerto Rico](picitook.JPEG)

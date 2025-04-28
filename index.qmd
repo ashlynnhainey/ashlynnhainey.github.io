@@ -1,0 +1,24 @@
+---
+title: "Ashlynn Hainey"
+image: mypicture.JPEG
+about:
+  template: trestles
+  links: 
+    - icon: envelope
+      text: "Email"
+      href: "ashlynn.hainey@ucdenver.edu"
+    - icon: gitHub
+      text: "Github"
+      href: "https://github.com/ashlynnhainey"
+    
+---
+## Skills
+- Reading
+- Writing
+- Math
+
+## Education
+- University: CU Denver
+- Degree: Computer Science
+- High school: Some High School
+- GPA: 4.0
